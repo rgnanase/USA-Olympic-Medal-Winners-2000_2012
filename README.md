@@ -12,7 +12,7 @@ https://github.com/rgnanase/Olympics-Medal-Winning-Pattern-2000_2012-USA/release
 Proposed Question from looking after the data: Is there a pattern on how Olympic athletes won medals as they grew old? Have they won less medals because of physical & mental wear and tear as they grow old, or have they won more medals as they gain more experience?
 
 License information:
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. CC-BY-SA Rajesh & Priyanka, 2015; original data (c) Sports Reference, retrieved from URL
 
 Citation for the data created:
 
