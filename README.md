@@ -5,7 +5,7 @@ NOTE: In this link, download the xlsx file in the name "OlympicsAthletes.xlsx" u
 Direct hyperlink to download the xlsx file:
 http://www.tableausoftware.com/public/sites/default/files/OlympicAthletes_0.xlsx 
 
-URL for the sub set of the data set produced:
+URL for the sub set of the data set produced: NOTE: Download the Info.Organization.zip file and use the files.
 https://github.com/rgnanase/Olympics-Medal-Winning-Pattern-2000_2012-USA/releases
 
 Proposed Question from looking after the data: Is there a pattern on how Olympic athletes won medals as they grew old? Have they won less medals because of physical & mental wear and tear as they grow old, or have they won more medals as they gain more experience?
